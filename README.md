@@ -46,7 +46,7 @@ Screenshots of my setup and learning activities will be added to the `screenshot
 
 ### Kali Linux Desktop
 
-![Kali Linux running in VirtualBox](screenshots/Screenshot_2026-10-27_kali_linux.png)
+![Kali Linux running in VirtualBox](Screenshot_2026-10-27_kali_linux.png)
 
 ### VirtualBox Configuration
 
