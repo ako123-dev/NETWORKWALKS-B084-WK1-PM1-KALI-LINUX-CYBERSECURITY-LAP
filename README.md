@@ -22,7 +22,7 @@ This project represents my first step toward building a personal cybersecurity l
 |---|---|
 | Host computer | Dell Vostro 15 3535 |
 | Processor | AMD Ryzen 5 7530U with Radeon Graphics |
-| Installed RAM | 7.4 GB available to the operating system |
+| Installed RAM | 8 GB available to the operating system |
 | Free storage before setup | Approximately 202.5 GB |
 | Host operating system | Windows |
 | Virtualisation software | Oracle VirtualBox 7.2.22 |
@@ -42,19 +42,16 @@ Completing the setup has given me a foundation for exploring Linux, networking, 
 
 ## Screenshots
 
-Screenshots of my setup and learning activities will be added to the `screenshots/` directory.
+Screenshots of my setup are added to the repo.
 
 ### Kali Linux Desktop
 
-![Kali Linux running in VirtualBox](Screenshot_2026-10-27_kali_linux.png)
+![Kali Linux running in VirtualBox](Screenshot-2026-10-27-kali-linux.png)
 
-### VirtualBox Configuration
+### Kali Network Configuration
 
-![Kali Linux virtual machine in VirtualBox Manager](screenshots/Screenshot 2026-10-27 kali-network-settings.png)
+![Kali Linux virtual machine in VirtualBox Manager](Screenshot-2026-10-27-kali-network-settings.png)
 
-### Linux Terminal
-
-![Kali Linux terminal practice](screenshots/kali-terminal.png)
 
 ## Key Lessons Learned
 
@@ -83,7 +80,7 @@ The purpose of this lab is education, defensive security, and responsible cybers
 
 ## Acknowledgements
 
-I would like to express my sincere appreciation to everyone who guided, encouraged, and supported me during the setup process. Your help has contributed to my learning, and I am grateful for the knowledge you shared.
+I would like to express my sincere appreciation to Mr.Waqas Karim, who guided me during the setup process. Your help has contributed to my learning, and I am grateful for the knowledge you shared.
 
 This is the beginning of my cybersecurity learning journey, and I look forward to documenting my progress and continuing to develop my technical skills.
 
